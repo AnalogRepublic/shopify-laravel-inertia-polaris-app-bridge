@@ -23,3 +23,9 @@ composer.json
 -   Install the dev package with the branch just created `composer require shopify/shopify-api:dev-chore/psr-log-3`
 
 -   Start with the fallback route for login, and actual login routes
+
+-   Create the config/shopify.php file with the environment settings
+
+-   Update the AppServiceProvider.php to include the Shopify Boot Up sequence
+
+-   TODO: Update DB Handler to use User Model
