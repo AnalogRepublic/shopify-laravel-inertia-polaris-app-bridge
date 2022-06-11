@@ -28,4 +28,8 @@ composer.json
 
 -   Update the AppServiceProvider.php to include the Shopify Boot Up sequence
 
--   TODO: Update DB Handler to use User Model
+-   Update DB Handler to use User Model
+
+-   Update the redirect_top_level to use app bridge 3
+
+-   Create a Dashboard Page with Authentication to Load Up App Bridge 3
